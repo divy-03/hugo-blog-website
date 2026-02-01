@@ -17,9 +17,9 @@ tags:
 - [ ] Latest Resume
 - [ ] All deployed projects links
 - [ ] Know about every technology I wrote in my resume
-- [ ] Revise through [[JS Flash Card]]
+- [ ] Revise through [[post/JS Flash Card]]
 
-[[HTML]]
+[[post/HTML]]
 - <!DOCTYPE html>
 - meta tag
 
@@ -29,7 +29,7 @@ tags:
 - CSS Frameworks
 - SASS vs Tailwind CSS
 
-[[JavaScript]] 
+[[post/JavaScript]] 
 - var vs let
 - Hoisting
--  [[JS Flash Card]]
+-  [[post/JS Flash Card]]

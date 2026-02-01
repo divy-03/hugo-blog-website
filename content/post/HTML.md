@@ -26,7 +26,7 @@ Hyper Text Markup Language is the backbone of any website.
 	<figcaption>Caption</figcaption>
 </figure>
 ```
--  Use [[Semantic Tags]] like header, footer, section, article
+-  Use [[post/Semantic Tags]] like header, footer, section, article
 - Avoid using <b/>, <i/> for bold and italics, instead use [[CSS]] properties like font-weight and font-style: "italic" or use <strong/> for bold and <em/> for emphasis/italics.
 - Don't use [block](#block-and-inline-element) elements inside [inline](#block-and-inline-element) elements
 ### Block and Inline element

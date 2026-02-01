@@ -11,7 +11,6 @@ categories:
   - prep
 ---
 
-
 ### var / let
 
 | Feature        | `var`                                          | `let`                                               |

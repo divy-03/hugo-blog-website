@@ -31,7 +31,7 @@ TODO
 - [ ] Add my blogs 
 - [ ] Change theme colors
 - [ ] Deploy on vercel or render
-- [ ] Deploy on own domain [[How to buy Domain]]
+- [ ] Deploy on own domain [[post/How to buy Domain]]
 - [ ] Add Japanese (optional)
 
 2025-09-15

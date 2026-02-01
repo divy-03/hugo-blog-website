@@ -1,16 +1,14 @@
 ---
 title: How to Contribute
-description: First time solving 4 questions in div 4
+description: Learn how to contribute to your first open source project
 
 date: 2025-09-14T20:12:52+08:00
 lastmod: 2025-09-14T20:12:52+08:00
 tags:
   - blog
-  - codeforces
-  - cpp
-  - contest
+  - github
 categories:
-  - dsa
+  - dev
 ---
 
 
